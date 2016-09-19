@@ -19,3 +19,5 @@ or
 ./mk -o=TARGET_BUILD_VARIANT=user golf n lk
 
 Kernel source isn't tested
+
+Simply cloned for supporting my own phones.
